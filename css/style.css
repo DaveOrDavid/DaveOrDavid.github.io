@@ -294,6 +294,7 @@ figure {
           margin: 0;
           padding: 0;
           color: black;
+          /* ^^ controls the large "I am an Engineer" text */
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
@@ -624,7 +625,8 @@ body.offcanvas {
   border-bottom: 2px solid #2c98f0; }
   .services .icon2 {
     display: block;
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+   }
     .services .icon2 i {
       font-size: 30px;
       color: #2c98f0; }
